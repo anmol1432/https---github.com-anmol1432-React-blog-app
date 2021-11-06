@@ -1,0 +1,11 @@
+.form-cont{
+display: block;
+margin: auto;
+width: 80%;
+}
+.heading{
+    font-size: 2rem;
+}
+.done-btn{
+    text-align: end;
+}

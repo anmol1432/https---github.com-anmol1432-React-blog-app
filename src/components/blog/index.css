@@ -1,0 +1,14 @@
+.blog{
+    margin: 15px 0px;
+    text-align: left;
+}
+.question{
+    font-size: 2rem;
+}
+.btn-group{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 5px 0px;
+    width: fit-content
+}
